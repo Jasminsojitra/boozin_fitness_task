@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>584025880118-cl22o39nugsbqv03e5l6ut8nm78lrmtu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.584025880118-cl22o39nugsbqv03e5l6ut8nm78lrmtu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>584025880118-rc2ra2gon9e9rlomkt9vk9roj8qmq7d9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwEj07oTf_-8hvlw0UySVzSaEQUTb8eLQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>584025880118</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.helth.boozinFitnessTask</string>
+	<key>PROJECT_ID</key>
+	<string>boozin-834f1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boozin-834f1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:584025880118:ios:2f6106b471e7b3db18ca97</string>
+</dict>
+</plist>

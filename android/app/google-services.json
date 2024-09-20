@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "584025880118",
+    "project_id": "boozin-834f1",
+    "storage_bucket": "boozin-834f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584025880118:android:227c51f0e1741b0618ca97",
+        "android_client_info": {
+          "package_name": "com.helth.boozin_fitness_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584025880118-rc2ra2gon9e9rlomkt9vk9roj8qmq7d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helth.boozin_fitness_task",
+            "certificate_hash": "bc32105326710098cc16b8b0d6cc168b0ce96f24"
+          }
+        },
+        {
+          "client_id": "584025880118-8tcm53jidv66auofebp9juubggqp6pa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhaSx9DExTInFk6_17gxV4UO1quGB6d_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584025880118-8tcm53jidv66auofebp9juubggqp6pa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
