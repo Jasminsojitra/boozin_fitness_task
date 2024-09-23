@@ -31,7 +31,7 @@ class _SplashScreenState extends State<SplashScreen> {
   Future<void> animationComplete() async {
     setState(() => display = true);
     await Future.delayed(const Duration(seconds: 2));
-    Get.to(() => const HomeScreen());
+    Get.Off(() => const HomeScreen());
   }
 
   @override
